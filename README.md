@@ -1,47 +1,106 @@
-<!-- Profile Header -->
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Lenin%20TK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Generative+AI+%7C+Python;B.Tech+Information+Technology;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,100:243B55&text=LENIN%20TK&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lenin-tk-b62981417/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/lenintk1315-crypto">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=lenintk1315-crypto&style=flat-square&color=243B55&label=PROFILE+VIEWS"/>
+</p>
+
+<h3 align="center">
+  📊 Data Science &nbsp;•&nbsp; 🤖 Generative AI &nbsp;•&nbsp; 🐍 Python
+</h3>
+
+<p align="center">
+  <b>B.Tech Information Technology</b>
+  <br/>
+  Building data-driven and AI-powered solutions.
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Tech in Information Technology**
+I'm an **IT graduate** currently focused on **Data Science, Machine Learning,
+and Generative AI**.
 
-📊 Currently focused on **Data Science, Machine Learning & Generative AI**
-
-🐍 Building practical projects using **Python and data-driven technologies**
-
-🤖 Exploring **Generative AI, LLMs and AI-powered applications**
-
-🌱 Continuously learning, experimenting and improving my problem-solving skills.
+I enjoy turning data and ideas into practical solutions using **Python,
+Machine Learning, and AI technologies**.
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Focus
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+### 📊
+**Data Science**
+
+Data Analysis  
+Visualization  
+Statistics
+
+</td>
+
+<td align="center" width="180">
+
+### 🧠
+**Machine Learning**
+
+Models  
+Prediction  
+Evaluation
+
+</td>
+
+<td align="center" width="180">
+
+### 🤖
+**Generative AI**
+
+LLMs  
+AI Applications  
+Prompt Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,js,react,nodejs,mongodb&perline=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 What I'm Building
 
 ```text
-📊 Data Science
-      ↓
-📈 Data Analysis & Visualization
-      ↓
-🧠 Machine Learning
-      ↓
-🤖 Generative AI
-      ↓
-🔗 LLM Applications
+Data
+  ↓
+Analysis
+  ↓
+Machine Learning
+  ↓
+Generative AI
+  ↓
+Practical AI Solutions
