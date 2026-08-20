@@ -47,9 +47,8 @@
 
 ## 🎯 Goal
 
-To build a career in **Data Science and Generative AI**, applying
-**Python, data analysis, machine learning, and AI technologies** to
-solve real-world problems and develop meaningful, data-driven solutions.
+Grow as a **Data Science & Generative AI professional** by building
+practical, data-driven solutions.
 
 <p align="center">
   <b>Learn → Build → Apply → Grow 🚀</b>
