@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Lenin TK 
 
-<!--
-**lenintk1315-crypto/lenintk1315-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Data Science & Generative AI  | Python Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Information Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Currently focused on **Data Science, Machine Learning, and Generative AI**.
+
+🐍 Building projects with Python and exploring data-driven and AI-powered solutions.
+
+🌱 Continuously learning and improving my problem-solving skills.
+
+# Skills
+
+Python • Data Science • Machine Learning • Generative AI • SQL • JavaScript • React • Git
+
+# Interests
+
+Data Analytics • AI Applications • LLMs • Machine Learning
+
+📫 [LinkedIn](https://www.linkedin.com/in/lenin-tk-b62981417/)
